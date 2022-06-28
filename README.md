@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Hemant-khadun
-- 👀 I’m interested in Php, Flutter, App dev and web dev.
+- 👀 I’m interested in Php, MySQL, Laravel, Codeigniter, Flutter, App dev and web dev.
 - 🌱 I’m currently learning React native
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me hemwuntkhadun@gmail.com
